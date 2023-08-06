@@ -8,6 +8,16 @@
 
 > 最近练习Typescript，觉得差不多了，就用这个项目练练手，使用Typescript纯面向对象编程。
 
+## 开源地址
+
+试玩地址：[试玩地址 (zou-hong-run.github.io)](https://zou-hong-run.github.io/dobang/dist/)
+
+代码地址：[zou-hong-run/dobang: Typescript+vite+sass拖拽放置五子棋 (github.com)](https://github.com/zou-hong-run/dobang)
+
+视频演示地址：
+
+掘金：[Typescript+vite+sass手把手实现五子棋游戏（放置类） - 掘金 (juejin.cn)](https://juejin.cn/spost/7263719253915844666)
+
 ## 功能介绍
 
 用户将棋子放置在棋盘上，首先将五颗棋子连成线的用户胜利
@@ -755,8 +765,6 @@ export default class Piece {
 
 }
 ```
-
-## 开源地址
 
 
 
